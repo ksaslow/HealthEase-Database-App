@@ -1,5 +1,7 @@
 # HealthEase Patient Portal
+### CS5200 Final Project
 ### Fall 2023
+### Group Name: QuinnNSaslowKQuachL
 ### Authors: Nicole Quinn, Kaitlyn Saslow, Linda Quach
 
 
